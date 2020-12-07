@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align='center'>Hello World 👋, My name is Christ</h1>
 
+<h3 align='center'>A passionate Full Stack Web Developer</h3>
 <!--
 **christkz/christkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
