@@ -1,6 +1,7 @@
 <h1 align='center'>Hello World 👋, My name is Christ</h1>
 
 <h3 align='center'>A passionate Full Stack Web Developer</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christkz&layout=compact&hide=html&theme=dark&hide_title=true"  /></p> 
 <!--
 **christkz/christkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
